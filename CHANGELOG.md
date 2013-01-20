@@ -1,6 +1,13 @@
 template_override Changelog
 ===========================
 
+Version 1.1.1 stable (2013-01-20)
+---------------------------------
+
+### Fixed
+- Added the French translation to the list in README file
+
+
 Version 1.1.0 stable (2013-01-20)
 ---------------------------------
 
