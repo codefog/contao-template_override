@@ -1,7 +1,7 @@
 template_override Changelog
 ===========================
 
-Version 1.1.0 stable (2013-01-??)
+Version 1.1.0 stable (2013-01-20)
 ---------------------------------
 
 ### Improved
