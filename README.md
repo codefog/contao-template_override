@@ -9,5 +9,6 @@ This extension allows you to override the default module and content element tem
 
 ### Available languages
 - English
+- French
 - German
 - Polish

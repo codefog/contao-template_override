@@ -17,7 +17,7 @@
  * Extension version
  */
 @define('TEMPLATE_OVERRIDE_VERSION', '1.1');
-@define('TEMPLATE_OVERRIDE_BUILD', '0');
+@define('TEMPLATE_OVERRIDE_BUILD', '1');
 
 
 /**
