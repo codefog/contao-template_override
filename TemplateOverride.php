@@ -2,11 +2,12 @@
 
 /**
  * template_override extension for Contao Open Source CMS
- * 
- * Copyright (C) 2012 Codefog
- * 
+ *
+ * Copyright (C) 2013 Codefog Ltd
+ *
  * @package template_override
  * @link    http://codefog.pl
+ * @author  Codefog Ltd <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
  * @author  Tristan Lins <tristan.lins@infinitysoft.de>
  * @license LGPL
@@ -14,7 +15,7 @@
 
 
 /**
- * Class TemplateOverride 
+ * Class TemplateOverride
  *
  * Provide methods to override default templates.
  */
