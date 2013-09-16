@@ -1,6 +1,15 @@
 template_override Changelog
 ===========================
 
+Version 1.1.2 stable (2013-09-16)
+---------------------------------
+
+### Improved
+- Added the autoload.ini file
+- Updated the readme file
+- Updated the copyright information
+
+
 Version 1.1.1 stable (2013-01-20)
 ---------------------------------
 
