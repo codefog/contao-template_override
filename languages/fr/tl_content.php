@@ -3,11 +3,11 @@
 /**
  * template_override extension for Contao Open Source CMS
  *
- * Copyright (C) 2013 Codefog Ltd
+ * Copyright (C) 2013 Codefog
  *
  * @package template_override
  * @link    http://codefog.pl
- * @author  Codefog Ltd <http://codefog.pl>
+ * @author  Codefog <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
  * @author  Tristan Lins <tristan.lins@infinitysoft.de>
  * @license LGPL
